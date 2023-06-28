@@ -1,0 +1,24 @@
+.boton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(255, 255, 255);
+    padding: 14px;
+    border-radius: 50px;
+    cursor: pointer;
+    margin-left: 500px;
+    margin-right: 380px;
+    font-family: 'Vast Shadow', cursive;
+    transform: rotate(0);
+    transition: .3s ease;
+    z-index: 1;
+}
+.boton:hover {
+    transform: rotate(180deg);
+    background-color: rgb(134, 214, 238);
+}
+@media (max-width: 360px) {
+    #boton {
+        margin-left: 260px;
+    }
+}
