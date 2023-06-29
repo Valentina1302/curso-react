@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Valentina1302/curso-react/static/css/main.163bd719.css",
+    "main.js": "/Valentina1302/curso-react/static/js/main.e2bffc5a.js",
+    "index.html": "/Valentina1302/curso-react/index.html",
+    "static/media/checked.svg": "/Valentina1302/curso-react/static/media/checked.f49aa365a3a8ecc64c3b636086654f80.svg",
+    "static/media/delete.svg": "/Valentina1302/curso-react/static/media/delete.35407fcae8fb9e1f41de02283f5231ec.svg",
+    "main.163bd719.css.map": "/Valentina1302/curso-react/static/css/main.163bd719.css.map",
+    "main.e2bffc5a.js.map": "/Valentina1302/curso-react/static/js/main.e2bffc5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.163bd719.css",
+    "static/js/main.e2bffc5a.js"
+  ]
+}
